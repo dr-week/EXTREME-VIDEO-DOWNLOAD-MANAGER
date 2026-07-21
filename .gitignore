@@ -1,0 +1,20 @@
+# Python environment
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+
+# App Storage
+downloads/
+*.mp4
+*.mp3
+*.mkv
+*.webm
+*.m4a
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+
